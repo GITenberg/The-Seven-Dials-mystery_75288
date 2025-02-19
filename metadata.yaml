@@ -1,0 +1,34 @@
+_repo: The-Seven-Dials-mystery_75288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Christie, Agatha
+    alias: Christie, Agatha Mary Clarissa Miller
+    birthdate: 1890
+    deathdate: 1976
+    gutenberg_agent_id: '451'
+    url: http://www.gutenberg.org/2009/agents/451
+    wikipedia: https://en.wikipedia.org/wiki/Agatha_Christie
+description: ''
+gutenberg_issued: '2025-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75288'
+language: en
+pgterms:marc905: 20240306121217christie
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bBantam Books, Inc., $c1929, pubdate 1986.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Police -- England -- Fiction'
+- !lcsh 'Battle, Superintendent (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Seven Dials mystery
+url: http://www.gutenberg.org/ebooks/75288
